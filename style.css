@@ -1,0 +1,145 @@
+.header{
+    /* border: solid 1px black; */
+    width: 100%;
+ }
+.header ul{
+     /* border: solid 2px red;  */
+} 
+ li{
+    display: inline;
+    /* border: solid 3px blue; */
+
+} 
+img{
+    /* border: solid 2px blue; */
+}
+.right{
+    text-transform: capitalize;
+     /* border:  solid 4px green;  */
+    float: right;
+    word-spacing: 60px;
+    margin-top: -5px;
+}
+button{
+    text-transform: capitalize;
+    margin-right: 130px;
+    background-color: blue;
+    color: white;
+    padding: 10px 40px;
+}
+span{
+    text-decoration: underline;
+    font-size: 20px;
+}
+img{
+    width: 110px;
+    margin-left: 70px;
+}
+.img2{
+    width: 600px;
+    height: 450px;
+    margin-right: 100px;
+    margin-top: -90px;
+    padding-right: 100px;
+    /* padding-top: -190px; */
+}
+.content{
+     border: solid 1px black; 
+    height: 100%;
+    margin-top: 10px;
+    padding-bottom: 200px;
+    width: 100%;
+}
+.content img{
+    float: right;
+    margin-right: 50px;
+}
+p{
+    font-style: normal;
+    font-weight: 600px;
+    font-size: 50px;
+    word-spacing: 5px;
+    /* border: solid 1px black; */
+    margin-left: 100px;
+    margin-top: 80px;
+    width: 50%;
+    
+}
+.p2{
+    text-transform: capitalize;
+    font-size: 14px;
+    /* border: solid 1px red; */
+    margin-left: 100px;
+    color: gray;
+    margin-top: -30px;
+}
+.btn{
+    text-transform: capitalize;
+    background-color: white;
+    position: fixed;
+    color: blue;
+    margin-left: 345px;
+    margin-top: 10px;
+    padding: 10px 40px;
+    /* padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px; */
+}
+.btn2{
+    margin-left: 100px;
+     margin-top: 10px;
+     padding: 10px 40px;
+     position: fixed;
+    /* padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px; */
+}
+.pic1{
+    width: 43px;
+    height: 50px;
+    border-radius: 50%;
+     
+      /* position: fixed; */
+} 
+.pic2{
+    width: 40px;
+    height: 50px;
+    border-radius: 50%;
+    position: relative;
+     left: -80px;
+}
+.pic3{
+    width: 40px;
+    height: 50px;
+    border-radius: 50%;
+     left: -162px;
+     position: relative; 
+}
+.pic4{
+    width: 40px;
+    height: 50px;
+    border-radius: 50%;
+    left:-240px ;
+    position: relative; 
+      
+}
+.images{
+     /* border: 1px solid green; */
+    margin-top: -110px;
+    margin-left: 55px;
+    /* float: left; */
+    word-spacing: -5cm;
+    }
+
+div {
+    /* border: 1px solid red; */
+    margin-left: 10px;
+}
+.p3{
+    font-size: 18px;
+    /* border: 1px solid red; */
+    margin-top: -33px;
+    margin-left: 230px;
+}
